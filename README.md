@@ -1,3 +1,5 @@
+[![Binder](https://binder.conp.cloud/badge_logo.svg)](https://binder.conp.cloud/v2/gh/neurolibre/introML-book/master?urlpath=/home)
+
 # Machine Learning with Nilearn
 
 <img src="https://nilearn.github.io/_static/nilearn-logo.png" alt="nilearn" width="200"/>
