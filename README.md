@@ -1,4 +1,4 @@
-[![Binder](https://binder.conp.cloud/badge_logo.svg)](https://binder.conp.cloud/v2/gh/neurolibre/introML-book/master?urlpath=/home)
+[![Binder](https://binder.conp.cloud/badge_logo.svg)](https://binder.conp.cloud/v2/gh/neurolibre/introML-book/master?filepath=content%2F01)
 
 # Machine Learning with Nilearn
 
